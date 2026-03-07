@@ -1,0 +1,419 @@
+﻿{
+    "isConnectedToGameConfig": false,
+    "teamName": "USA",
+    "teamColor": {
+        "r": 0.051903918385505679,
+        "g": 0.0,
+        "b": 0.4939976632595062,
+        "a": 1.0
+    },
+    "skin": {
+        "sourceDirectory": "2982266583",
+        "sourceWorkshopId": 2982266583,
+        "name": "SQUAD USA Rifleman "
+    },
+    "availableWeapons": [
+        {
+            "sourceDirectory": "2214668496",
+            "sourceWorkshopId": 2214668496,
+            "name": "M249 SAW",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP7",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP7 ACOG [4x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP7 EOTech [Holo]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MPX",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MPX Osprey [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP5K",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP5SD",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "SCAR-17",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "SCAR-17 SV Ballistic [8x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "SCAR-17 SV Ballistic Fisher [8x + Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "SCAR-17 SRS02 [GDS]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "SCAR-17 Fisher [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "SCAR-17 Fisher SRS02 [Suppressor + GDS]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "MK-14 EBR Ballistic Fisher [8x + Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "MK-14 EBR Ballistic [8x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "MK-14 EBR Fisher [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "MK-14 EBR SU230 Fisher [6x + Fisher]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "MK-14 EBR",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "MK-14 EBR SU230 [6x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "M82A1 Ballistic [8x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "M82A1 CQ",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "SW1911",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "M9A1",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214677186",
+            "sourceWorkshopId": 2214677186,
+            "name": "R870 MCS Buckshot",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214677186",
+            "sourceWorkshopId": 2214677186,
+            "name": "M26 MASS Buckshot",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214677186",
+            "sourceWorkshopId": 2214677186,
+            "name": "M1014 Buckshot",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214677186",
+            "sourceWorkshopId": 2214677186,
+            "name": "KSG-12 Buckshot",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "FIM-92 Stinger MANPADS",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "MK153 SMAW HEAT",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "Mk153 SMAW Thermobaric",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "FGM-148 Javelin",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "M136 AT4 ER",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "M136 AT4 HE Dual Charge",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "M32 MGL Flechette",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214699155",
+            "sourceWorkshopId": 2214699155,
+            "name": "M67 Fragmentation Grenade",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "M16A3",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "M16A3 .458 SOCOM",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "M16A3 EOTech [Holo]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "M4A1 Flip Up Sights",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "Honey Badger ",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "MK-18 CQBR",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "MK-18 CQBR ACOG [4x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "MK-18 CQBR EOTech [Holo]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "MCX",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "M3 MAAWS High Explosive Dual Purpose",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2421000653",
+            "sourceWorkshopId": 2421000653,
+            "name": "Entrenching Tool",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2632162051",
+            "sourceWorkshopId": 2632162051,
+            "name": "AN M8 Smoke",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2283452545",
+            "sourceWorkshopId": 2283452545,
+            "name": "BF4 Medkit",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2283452545",
+            "sourceWorkshopId": 2283452545,
+            "name": "BF4 Ammo Crate",
+            "rarityTier": 0
+        }
+    ],
+    "vehicleConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "2493297154",
+            "sourceWorkshopId": 2493297154,
+            "name": "Humvee Transport FIX",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "2493297154",
+            "sourceWorkshopId": 2493297154,
+            "name": "Humvee MG FIX 2",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "2859421425",
+            "sourceWorkshopId": 2859421425,
+            "name": "Quadbike",
+            "rarityTier": 0
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "2599015757",
+            "sourceWorkshopId": 2599015757,
+            "name": "M1A2 Abrams OMAGUS GG 1",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "3416933285",
+            "sourceWorkshopId": 3416933285,
+            "name": "AH-64E Guardian CMS Desert",
+            "rarityTier": 0
+        },
+        {
+            "type": 5,
+            "sourceDirectory": "2764359264",
+            "sourceWorkshopId": 2764359264,
+            "name": "A-10 EA26 8",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "2571878283",
+            "sourceWorkshopId": 2571878283,
+            "name": "RHIB US 6",
+            "rarityTier": 0
+        },
+        {
+            "type": 7,
+            "sourceDirectory": "2571878283",
+            "sourceWorkshopId": 2571878283,
+            "name": "RHIB US 6",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "2764359264",
+            "sourceWorkshopId": 2764359264,
+            "name": "A-10 EA26 8",
+            "rarityTier": 0
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "2339064888",
+            "sourceWorkshopId": 2339064888,
+            "name": "UH-60 amogus",
+            "rarityTier": 0
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "2521893567",
+            "sourceWorkshopId": 2521893567,
+            "name": "M2 Bradley Desert revamp fixed SUS 1",
+            "rarityTier": 0
+        }
+    ],
+    "turretConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "2535310465",
+            "sourceWorkshopId": 2535310465,
+            "name": "M2 Browning MG 1",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "2612964073",
+            "sourceWorkshopId": 2612964073,
+            "name": "TOW Launcher gg 1",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "2444708438",
+            "sourceWorkshopId": 2444708438,
+            "name": "MIM-23 HAWk SUS",
+            "rarityTier": 0
+        }
+    ]
+}

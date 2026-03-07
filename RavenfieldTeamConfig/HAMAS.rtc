@@ -1,0 +1,360 @@
+﻿{
+    "isConnectedToGameConfig": false,
+    "teamName": "HAMAS",
+    "teamColor": {
+        "r": 0.3159514367580414,
+        "g": 0.08031539618968964,
+        "b": 0.08031539618968964,
+        "a": 1.0
+    },
+    "skin": {
+        "sourceDirectory": "2847497247",
+        "sourceWorkshopId": 2847497247,
+        "name": "Ḥarakat al-Muqāwamah al-ʾIslāmiyyah Hamas"
+    },
+    "availableWeapons": [
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "UZI",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2283452545",
+            "sourceWorkshopId": 2283452545,
+            "name": "BF4 Ammo Crate",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2283452545",
+            "sourceWorkshopId": 2283452545,
+            "name": "BF4 Medkit",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "Uzi .41 AE Extended",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "Uzi Marksman",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "Uzi MK9K [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "UZI RMR [YTS]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "UZI",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "Uzi .41 AE Extended",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "Uzi Marksman",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "Uzi MK9K [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "UZI RMR [YTS]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MAC-11 Monster [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MAC-11",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2421000653",
+            "sourceWorkshopId": 2421000653,
+            "name": "Entrenching Tool",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP41",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP41",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP18",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP18",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "Tec-9",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "M1 Garand",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "Tec-9 Monster [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "Welrod",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "Makarov PMM",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "Desert Eagle .50",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214677186",
+            "sourceWorkshopId": 2214677186,
+            "name": "SBS-12 Buckshot",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214677186",
+            "sourceWorkshopId": 2214677186,
+            "name": "TOZ-34 Buckshot",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214668496",
+            "sourceWorkshopId": 2214668496,
+            "name": "PKM",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214668496",
+            "sourceWorkshopId": 2214668496,
+            "name": "RPK",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "RPG-7",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "AKM",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "AK-74M",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "AKM Kobra [RDS]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "AKS-74u",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "AKS-74u PBS [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "SG510",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "StG-44",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "Galil ARM",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "Galil ARM Surefire [Suppressor]",
+            "rarityTier": 0
+        }
+    ],
+    "vehicleConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "3307772253",
+            "sourceWorkshopId": 3307772253,
+            "name": "Toyota Hilux",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "3307772253",
+            "sourceWorkshopId": 3307772253,
+            "name": "Toyota Hilux DSHK",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "2859421425",
+            "sourceWorkshopId": 2859421425,
+            "name": "Quadbike",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "2494620507",
+            "sourceWorkshopId": 2494620507,
+            "name": "Humvee Transport Woodland FIX",
+            "rarityTier": 0
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "3307772253",
+            "sourceWorkshopId": 3307772253,
+            "name": "Toyota Hilux DSHK",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "3622322769",
+            "sourceWorkshopId": 3622322769,
+            "name": "FPV Drone [RPG-26]",
+            "rarityTier": 0
+        },
+        {
+            "type": 5,
+            "sourceDirectory": "3622322769",
+            "sourceWorkshopId": 3622322769,
+            "name": "FPV Drone [RPG-26]",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "2571878283",
+            "sourceWorkshopId": 2571878283,
+            "name": "RHIB US 6",
+            "rarityTier": 0
+        },
+        {
+            "type": 7,
+            "sourceDirectory": "2571878283",
+            "sourceWorkshopId": 2571878283,
+            "name": "RHIB US 6",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "3622322769",
+            "sourceWorkshopId": 3622322769,
+            "name": "FPV Drone [RPG-26]",
+            "rarityTier": 0
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "3622322769",
+            "sourceWorkshopId": 3622322769,
+            "name": "FPV Drone [RPG-26]",
+            "rarityTier": 0
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "3307772253",
+            "sourceWorkshopId": 3307772253,
+            "name": "Toyota Hilux DSHK",
+            "rarityTier": 0
+        }
+    ],
+    "turretConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "2579829162",
+            "sourceWorkshopId": 2579829162,
+            "name": "DSHK HMG GG",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "3333397991",
+            "sourceWorkshopId": 3333397991,
+            "name": "SPG-9",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "2351694765",
+            "sourceWorkshopId": 2351694765,
+            "name": "ZU AA GG 4",
+            "rarityTier": 0
+        }
+    ]
+}
