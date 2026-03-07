@@ -1,0 +1,617 @@
+﻿{
+    "isConnectedToGameConfig": false,
+    "teamName": "TURKIYE",
+    "teamColor": {
+        "r": 1.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+    },
+    "skin": {
+        "sourceDirectory": "3119021114",
+        "sourceWorkshopId": 3119021114,
+        "name": "SQUAD TLF Rifleman"
+    },
+    "availableWeapons": [
+        {
+            "sourceDirectory": "2421000653",
+            "sourceWorkshopId": 2421000653,
+            "name": "Entrenching Tool",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2283452545",
+            "sourceWorkshopId": 2283452545,
+            "name": "(Player) BF4 US Medkit",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2283452545",
+            "sourceWorkshopId": 2283452545,
+            "name": "BF4 Ammo Crate",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2632162051",
+            "sourceWorkshopId": 2632162051,
+            "name": "AN M8 Smoke",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2745321757",
+            "sourceWorkshopId": 2745321757,
+            "name": "SR 38",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2944963044",
+            "sourceWorkshopId": 2944963044,
+            "name": "Yavuz-16",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2944963044",
+            "sourceWorkshopId": 2944963044,
+            "name": "Yavuz-16-S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2864669395",
+            "sourceWorkshopId": 2864669395,
+            "name": "MPT-55 Stealth",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2864669395",
+            "sourceWorkshopId": 2864669395,
+            "name": "MPT-55 Tacticool",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2720311018",
+            "sourceWorkshopId": 2720311018,
+            "name": "MPT-76 Stealth",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3109397783",
+            "sourceWorkshopId": 3109397783,
+            "name": "SAR-56 Stealth",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2964377345",
+            "sourceWorkshopId": 2964377345,
+            "name": "KN-12-S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2964377345",
+            "sourceWorkshopId": 2964377345,
+            "name": "KN-12 Recon",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2720311018",
+            "sourceWorkshopId": 2720311018,
+            "name": "KNT-76 TAC",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2799091354",
+            "sourceWorkshopId": 2799091354,
+            "name": "MP5-A3",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2799091354",
+            "sourceWorkshopId": 2799091354,
+            "name": "MP5-A3 TAC",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2939410706",
+            "sourceWorkshopId": 2939410706,
+            "name": "HK33E A2 Stealth",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2935781672",
+            "sourceWorkshopId": 2935781672,
+            "name": "JNG-90-S",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2864669395",
+            "sourceWorkshopId": 2864669395,
+            "name": "MPT-55 Grenadier",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2741229334",
+            "sourceWorkshopId": 2741229334,
+            "name": "UTS-15",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2713739755",
+            "sourceWorkshopId": 2713739755,
+            "name": "M206W",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2799091354",
+            "sourceWorkshopId": 2799091354,
+            "name": "MP5-A2",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2799091354",
+            "sourceWorkshopId": 2799091354,
+            "name": "MP5-A2 TAC",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2720311018",
+            "sourceWorkshopId": 2720311018,
+            "name": "KNT-76 ",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2935781672",
+            "sourceWorkshopId": 2935781672,
+            "name": "JNG-90-I",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "JNG-90",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2935781672",
+            "sourceWorkshopId": 2935781672,
+            "name": "JNG-90",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2964377345",
+            "sourceWorkshopId": 2964377345,
+            "name": "KN-12",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3109397783",
+            "sourceWorkshopId": 3109397783,
+            "name": "SAR-56 Assault",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3109397783",
+            "sourceWorkshopId": 3109397783,
+            "name": "SAR-56",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3109407315",
+            "sourceWorkshopId": 3109407315,
+            "name": "SAR-308 TAC",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2720311018",
+            "sourceWorkshopId": 2720311018,
+            "name": "MPT-76",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2720311018",
+            "sourceWorkshopId": 2720311018,
+            "name": "MPT-76 Assault",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3109407315",
+            "sourceWorkshopId": 3109407315,
+            "name": "SAR-308",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2864669395",
+            "sourceWorkshopId": 2864669395,
+            "name": "MPT-55 Assault",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2864669395",
+            "sourceWorkshopId": 2864669395,
+            "name": "MPT-55",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2945873307",
+            "sourceWorkshopId": 2945873307,
+            "name": "MG3",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2939410706",
+            "sourceWorkshopId": 2939410706,
+            "name": "HK33E A2 Assault",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2939410706",
+            "sourceWorkshopId": 2939410706,
+            "name": "G3A7 Grenadier",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2939410706",
+            "sourceWorkshopId": 2939410706,
+            "name": "HK33E A2",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2939410706",
+            "sourceWorkshopId": 2939410706,
+            "name": "G3A7",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2846364252",
+            "sourceWorkshopId": 2846364252,
+            "name": "HAR-66",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP5SD",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP7",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP7 ACOG [4x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP7 EOTech [Holo]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP5A5",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "MP5K",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "P90",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "P90 Surefire [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214686112",
+            "sourceWorkshopId": 2214686112,
+            "name": "P90C Red Dot",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "AWM ",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "AWM Hunter [8x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "SR-25 ECC Hunter [8x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "SR-25 ECC",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "CZ-75",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "M82A1 Ballistic [8x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214690613",
+            "sourceWorkshopId": 2214690613,
+            "name": "M82A1 CQ",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "CZ-75 Automatic",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "P226",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "HK-45",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214681896",
+            "sourceWorkshopId": 2214681896,
+            "name": "HK-45 Osprey [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214677186",
+            "sourceWorkshopId": 2214677186,
+            "name": "R870 MCS Buckshot",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214677186",
+            "sourceWorkshopId": 2214677186,
+            "name": "M1014 Buckshot",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214668496",
+            "sourceWorkshopId": 2214668496,
+            "name": "M249 SAW",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214668496",
+            "sourceWorkshopId": 2214668496,
+            "name": "MG3 [Armor Piercing Tracer Rounds]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "FGM-148 Javelin",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "M3 MAAWS High Explosive Anti-Tank",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "M3 MAAWS High Explosive Dual Purpose",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "M136 AT4 ER",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "M136 AT4 HE Dual Charge",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214693494",
+            "sourceWorkshopId": 2214693494,
+            "name": "M320 High Explosive",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "M16A3",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "M16A3 .458 SOCOM",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "M16A3 EOTech [Holo]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "M4A1 Flip Up Sights",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "G36C",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "G36C Fisher [Suppressor]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "G36K HP Ammo",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "HK443 Quad-Stacked Mags",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "MTAR-21",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "MTAR-21 ACOG [4x]",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2214671215",
+            "sourceWorkshopId": 2214671215,
+            "name": "MTAR-21 EOTech [Holo]",
+            "rarityTier": 0
+        }
+    ],
+    "vehicleConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "2860656375",
+            "sourceWorkshopId": 2860656375,
+            "name": "BMC Kirpi 2 Woodland",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "2860656375",
+            "sourceWorkshopId": 2860656375,
+            "name": "BMC Kirpi 2 Woodland",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "2859421425",
+            "sourceWorkshopId": 2859421425,
+            "name": "Quadbike",
+            "rarityTier": 0
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "2922410390",
+            "sourceWorkshopId": 2922410390,
+            "name": "M60TM",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "2984718408",
+            "sourceWorkshopId": 2984718408,
+            "name": "T-129 ATAK Woodland",
+            "rarityTier": 0
+        },
+        {
+            "type": 5,
+            "sourceDirectory": "3603153448",
+            "sourceWorkshopId": 3603153448,
+            "name": "F-4E Terminator",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "2571878283",
+            "sourceWorkshopId": 2571878283,
+            "name": "RHIB US 6",
+            "rarityTier": 0
+        },
+        {
+            "type": 7,
+            "sourceDirectory": "2571878283",
+            "sourceWorkshopId": 2571878283,
+            "name": "RHIB US 6",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "3603153448",
+            "sourceWorkshopId": 3603153448,
+            "name": "F-4E Terminator",
+            "rarityTier": 0
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "2978661891",
+            "sourceWorkshopId": 2978661891,
+            "name": "Sikorsky S-70A Gendarmerie",
+            "rarityTier": 0
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "3620355333",
+            "sourceWorkshopId": 3620355333,
+            "name": "BMC Altug 8x8",
+            "rarityTier": 0
+        }
+    ],
+    "turretConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "2535310465",
+            "sourceWorkshopId": 2535310465,
+            "name": "M2 Browning MG 1",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "2574026728",
+            "sourceWorkshopId": 2574026728,
+            "name": "AT-4 Spigot 7",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "2963649042",
+            "sourceWorkshopId": 2963649042,
+            "name": "Oerlikon GDF-003 ATOM",
+            "rarityTier": 0
+        }
+    ]
+}

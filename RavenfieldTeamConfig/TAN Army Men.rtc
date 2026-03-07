@@ -1,0 +1,448 @@
+﻿{
+    "isConnectedToGameConfig": false,
+    "teamName": "TAN Army Men",
+    "teamColor": {
+        "r": 0.4687875807285309,
+        "g": 0.46618708968162539,
+        "b": 0.2336551398038864,
+        "a": 1.0
+    },
+    "skin": {
+        "sourceDirectory": "2322088117",
+        "sourceWorkshopId": 2322088117,
+        "name": "Tan Army Men"
+    },
+    "availableWeapons": [
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": ".357 CONDOR",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "76 EAGLE",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "GREASER",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "M1 GARRET",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "PATRIOT",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "RIPCORD",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "RK-44",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "S-IND7",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SL-DEFENDER",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Commando SMG (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Automatic Pistol (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Assault Rifle (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Revolver (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Commando Marksman Rifle (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Commando Carbine (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Combat Knife (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Battle Rifle (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Shotgun (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Green Smoke Grenade (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Scrap Plastic (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Marksman Rifle (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Frag Grenade (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Wrench (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Sniper Rifle (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Rifle (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Heavy SMG (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "SMG (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Pistol (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Commando Pistol (Tan)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "AUTOMATICO",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Flamethrower (Tan)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "INGRESS 700",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "JOLT-20-S",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "PATRIOT GL",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "QUICKSILVER",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "RECON LRR",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Rifle (Bayonet) (Tan)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SIGNAL DMR",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Commando SMG Secondary (Tan)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "SMG Secondary (Tan)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Grenade Launcher (Tan)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Heavy Rifle (Tan)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Machine Gun (Tan)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Rocket Launcher (Tan)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "AUTOMATICO AKIMBO",
+            "rarityTier": 2
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "BUNDLE O' BUSS",
+            "rarityTier": 2
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "PATRIOT TAC",
+            "rarityTier": 2
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "S-IND7 [SUP]",
+            "rarityTier": 2
+        },
+        {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": "SUPERNOVA",
+            "rarityTier": 2
+        }
+    ],
+    "vehicleConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Jeep Tan",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen MGJeep Tan",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Motorbike Tan",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Motorbike Side Car Tan",
+            "rarityTier": 1
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Tank Tan",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "2818013655",
+            "sourceWorkshopId": 2818013655,
+            "name": "ArmyMen LightAttackHeli Tan",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Gunship Tan",
+            "rarityTier": 1
+        },
+        {
+            "type": 5,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Fighter Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Armymen Landing Craft Tan",
+            "rarityTier": 0
+        },
+        {
+            "type": 7,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Gunboat Tan",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "2818013655",
+            "sourceWorkshopId": 2818013655,
+            "name": "Armymen Fighter Bomber Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "2818013655",
+            "sourceWorkshopId": 2818013655,
+            "name": "Armymen Fighter Bomber Napalm Green",
+            "rarityTier": 2
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "2818013655",
+            "sourceWorkshopId": 2818013655,
+            "name": "ArmyMen LightHeli Tan",
+            "rarityTier": 0
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Helicopter Tan",
+            "rarityTier": 1
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "2818013655",
+            "sourceWorkshopId": 2818013655,
+            "name": "ArmyMen Gunship Transport Tan",
+            "rarityTier": 2
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen APC Tan",
+            "rarityTier": 0
+        }
+    ],
+    "turretConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen MGTurret Tan",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen TOW Tan",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Armymen AA Tan",
+            "rarityTier": 0
+        }
+    ]
+}

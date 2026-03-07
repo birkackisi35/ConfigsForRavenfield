@@ -1,0 +1,322 @@
+﻿{
+    "isConnectedToGameConfig": false,
+    "teamName": "GREEN Army Men",
+    "teamColor": {
+        "r": 0.22456170618534089,
+        "g": 0.3143758177757263,
+        "b": 0.15669256448745728,
+        "a": 1.0
+    },
+    "skin": {
+        "sourceDirectory": "2322088117",
+        "sourceWorkshopId": 2322088117,
+        "name": "Green Army Men"
+    },
+    "availableWeapons": [
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Automatic Pistol (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Combat Knife (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Pistol (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Revolver (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Commando Pistol (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Commando SMG (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Heavy SMG (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "SMG (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Rifle (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Assault Rifle (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Battle Rifle (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Marksman Rifle (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Frag Grenade (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Commando Marksman Rifle (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Commando Carbine (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Sniper Rifle (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Smoke Grenade (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Wrench (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Scrap Plastic (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Shotgun (Green)",
+            "rarityTier": 0
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "SMG Secondary (Green)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Commando SMG Secondary (Green)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Rifle (Bayonet) (Green)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Rocket Launcher (Green)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Machine Gun (Green)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Heavy Rifle (Green)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Grenade Launcher (Green)",
+            "rarityTier": 1
+        },
+        {
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Flamethrower (Green)",
+            "rarityTier": 1
+        }
+    ],
+    "vehicleConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Jeep Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen MGJeep Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Motorbike Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "3541664655",
+            "sourceWorkshopId": 3541664655,
+            "name": "Motorbike Side Car Green",
+            "rarityTier": 1
+        },
+        {
+            "type": 3,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Tank Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "2818013655",
+            "sourceWorkshopId": 2818013655,
+            "name": "ArmyMen LightAttackHeli Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 4,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Gunship Green",
+            "rarityTier": 1
+        },
+        {
+            "type": 5,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Fighter Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 6,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Armymen Landing Craft Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 7,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Gunboat Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "2818013655",
+            "sourceWorkshopId": 2818013655,
+            "name": "Armymen Fighter Bomber Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 8,
+            "sourceDirectory": "2818013655",
+            "sourceWorkshopId": 2818013655,
+            "name": "Armymen Fighter Bomber Napalm Green",
+            "rarityTier": 2
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "2818013655",
+            "sourceWorkshopId": 2818013655,
+            "name": "ArmyMen LightHeli Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen Helicopter Green",
+            "rarityTier": 1
+        },
+        {
+            "type": 9,
+            "sourceDirectory": "2818013655",
+            "sourceWorkshopId": 2818013655,
+            "name": "ArmyMen Gunship Transport Green",
+            "rarityTier": 2
+        },
+        {
+            "type": 10,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen APC Green",
+            "rarityTier": 0
+        }
+    ],
+    "turretConfiguration": [
+        {
+            "type": 0,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen MGTurret Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 1,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "ArmyMen TOW Green",
+            "rarityTier": 0
+        },
+        {
+            "type": 2,
+            "sourceDirectory": "2322088117",
+            "sourceWorkshopId": 2322088117,
+            "name": "Armymen AA Green",
+            "rarityTier": 0
+        }
+    ]
+}
