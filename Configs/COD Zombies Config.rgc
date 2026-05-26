@@ -1,0 +1,1450 @@
+﻿{
+    "teamFilePaths": [],
+    "teamInfo": [],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "2585496026",
+            "sourceWorkshopId": 2585496026,
+            "name": "<color=lime>Modern Warfare</color> Style HUD",
+            "fields": [
+                {
+                    "id": "weaponSpriteScale",
+                    "serializedValue": "15"
+                },
+                {
+                    "id": "feedLimit",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "displayName",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "showWeaponText",
+                    "serializedValue": "T"
+                },
+                {
+                    "id": "blueTeamName",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "redTeamName",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "healthBarVisibility",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "weaponHUDVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "vehicleHUDVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "playerNameVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "squadTextVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "healthNumberVisibility",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "displayKills",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "showCapturePointUpdates",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "feedEnabled",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2496345062",
+            "sourceWorkshopId": 2496345062,
+            "name": "Zombie Sounds",
+            "fields": [
+                {
+                    "id": "killlimit",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "groupdistance",
+                    "serializedValue": "500"
+                },
+                {
+                    "id": "hitdistance",
+                    "serializedValue": "15"
+                },
+                {
+                    "id": "dieddistance",
+                    "serializedValue": "25"
+                },
+                {
+                    "id": "killdistance",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "grouppriority",
+                    "serializedValue": "24"
+                },
+                {
+                    "id": "hitpriority",
+                    "serializedValue": "192"
+                },
+                {
+                    "id": "killpriority",
+                    "serializedValue": "128"
+                },
+                {
+                    "id": "diedpriority",
+                    "serializedValue": "160"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2496345062",
+            "sourceWorkshopId": 2496345062,
+            "name": "Zombies Don't Drive",
+            "fields": [
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2878408376",
+            "sourceWorkshopId": 2878408376,
+            "name": "COD WaW Nazi Zombies Multiskin",
+            "fields": [
+                {
+                    "id": "playerBool",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2529467881",
+            "sourceWorkshopId": 2529467881,
+            "name": "Verrückt Marines Voiceovers",
+            "fields": [
+                {
+                    "id": "KillStreakTarget",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "volume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "DoKillVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoHurtVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoDeathVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoKillStreaks",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoFallingVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoReloadingVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoVictoryVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoMatchStartVoice",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoLossVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoRevengeKillVoices",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DoCaptureVoices",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2843524103",
+            "sourceWorkshopId": 2843524103,
+            "name": "Zombies Powerups",
+            "fields": [
+                {
+                    "id": "powerupCooldown",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "dropFrequency",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "doublePoints",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "instaKill",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "maxAmmo",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "Nuke",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "nukeFlash",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "deathMachine",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "announcerOverride",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "announcerAdditions",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "announcerSelected",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3584023226",
+            "sourceWorkshopId": 3584023226,
+            "name": "Crosshair",
+            "fields": [
+                {
+                    "id": "Red",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "Green",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "Blue",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "Alpha",
+                    "serializedValue": "255"
+                },
+                {
+                    "id": "CrosshairSize",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "AssaultRifle",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "SniperRifle",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "Shotgun",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "Handgun",
+                    "serializedValue": "AUTOMATICO;AUTOMATICO ALIMBO"
+                },
+                {
+                    "id": "Blacklist",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "OldGrebadeTrajectoryPhysics",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "vehicleCrosshair",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "Debug",
+                    "serializedValue": "False"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2491222129",
+            "sourceWorkshopId": 2491222129,
+            "name": "COD WaW Zombies Voiceovers",
+            "fields": [
+                {
+                    "id": "killlimit",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "groupdistance",
+                    "serializedValue": "500"
+                },
+                {
+                    "id": "hitdistance",
+                    "serializedValue": "15"
+                },
+                {
+                    "id": "dieddistance",
+                    "serializedValue": "25"
+                },
+                {
+                    "id": "killdistance",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "grouppriority",
+                    "serializedValue": "24"
+                },
+                {
+                    "id": "hitpriority",
+                    "serializedValue": "192"
+                },
+                {
+                    "id": "killpriority",
+                    "serializedValue": "128"
+                },
+                {
+                    "id": "diedpriority",
+                    "serializedValue": "160"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2496345062",
+            "sourceWorkshopId": 2496345062,
+            "name": "Zombies Enhanced Multiskin",
+            "fields": [
+                {
+                    "id": "healthminrecon",
+                    "serializedValue": "80"
+                },
+                {
+                    "id": "healthminassault",
+                    "serializedValue": "300"
+                },
+                {
+                    "id": "healthminsupport",
+                    "serializedValue": "80"
+                },
+                {
+                    "id": "healthminplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "healthmaxrecon",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "healthmaxassault",
+                    "serializedValue": "500"
+                },
+                {
+                    "id": "healthmaxsupport",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "healthmaxplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "balanceminrecon",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "balanceminassault",
+                    "serializedValue": "400"
+                },
+                {
+                    "id": "balanceminsupport",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "balanceminplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "balancemaxrecon",
+                    "serializedValue": "175"
+                },
+                {
+                    "id": "balancemaxassault",
+                    "serializedValue": "600"
+                },
+                {
+                    "id": "balancemaxsupport",
+                    "serializedValue": "125"
+                },
+                {
+                    "id": "balancemaxplayer",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "limitbotsrecon",
+                    "serializedValue": "30"
+                },
+                {
+                    "id": "limitbotsassault",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "limitbotssupport",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "speedminrecon",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "speedminassault",
+                    "serializedValue": "0.75"
+                },
+                {
+                    "id": "speedminsupport",
+                    "serializedValue": "1.5"
+                },
+                {
+                    "id": "speedminplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "speedmaxrecon",
+                    "serializedValue": "1.2"
+                },
+                {
+                    "id": "speedmaxassault",
+                    "serializedValue": "1.1"
+                },
+                {
+                    "id": "speedmaxsupport",
+                    "serializedValue": "1.75"
+                },
+                {
+                    "id": "speedmaxplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "sizeminrecon",
+                    "serializedValue": "0.9"
+                },
+                {
+                    "id": "sizeminassault",
+                    "serializedValue": "1.2"
+                },
+                {
+                    "id": "sizeminsupport",
+                    "serializedValue": "0.9"
+                },
+                {
+                    "id": "sizeminplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "sizemaxrecon",
+                    "serializedValue": "1.05"
+                },
+                {
+                    "id": "sizemaxassault",
+                    "serializedValue": "1.4"
+                },
+                {
+                    "id": "sizemaxsupport",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "sizemaxplayer",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "primarytyperecon",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "primarytypeassault",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "primarytypesupport",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "primarytypeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "secondarytyperecon",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "secondarytypeassault",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "secondarytypesupport",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "secondarytypeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "gear1typerecon",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "gear1typeassault",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "gear1typesupport",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "gear1typeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "gear2typerecon",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "gear2typeassault",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "gear2typesupport",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "gear2typeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "gear3typerecon",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "gear3typeassault",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "gear3typesupport",
+                    "serializedValue": "Zombie"
+                },
+                {
+                    "id": "gear3typeplayer",
+                    "serializedValue": ""
+                },
+                {
+                    "id": "enablerecon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enablesupport",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enableskinrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableskinassault",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enableskinsupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "healthrecon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "healthassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "healthsupport",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "healthplayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "balancerecon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "balanceassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "balancesupport",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "balanceplayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "speedrecon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "speedassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "speedsupport",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "speedplayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutrecon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutsupport",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "loadoutplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "sizerecon",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "sizeassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "sizesupport",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "sizeplayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enablelimitbotsrecon",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "enablelimitbotsassault",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "enablelimitbotssupport",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "addressclasstoplayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "noskinforplayer",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "team",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3358018318",
+            "sourceWorkshopId": 3358018318,
+            "name": "Empty / Dry Fire Sounds",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "3015125721",
+            "sourceWorkshopId": 3015125721,
+            "name": "Super HUD Hider",
+            "fields": [
+                {
+                    "id": "HealthHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "WeaponHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "VehicleHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "SquadHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "FlagHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "OverlayHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "HitmarkerHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "KillfeedHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DamageDirectionHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "KillCameraHUD",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2407513273",
+            "sourceWorkshopId": 2407513273,
+            "name": "Universal Camera Shake",
+            "fields": [
+                {
+                    "id": "Vehicle",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "Spread",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "Shaking",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2799793905",
+            "sourceWorkshopId": 2799793905,
+            "name": "Universal Recoil",
+            "fields": [
+                {
+                    "id": "recoilAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "swayAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "trendMultiplier",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "recoveryAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "pushMult",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "rockMult",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "crouchMult",
+                    "serializedValue": "0.7"
+                },
+                {
+                    "id": "proneMult",
+                    "serializedValue": "0.8"
+                },
+                {
+                    "id": "reducedVisual",
+                    "serializedValue": "0.8"
+                },
+                {
+                    "id": "zoomMult",
+                    "serializedValue": "0.65"
+                },
+                {
+                    "id": "bannedWeps",
+                    "serializedValue": "artemis bow;Example 2"
+                },
+                {
+                    "id": "bannedTags",
+                    "serializedValue": "overhaul;Example 2"
+                },
+                {
+                    "id": "useProneMult",
+                    "serializedValue": "True"
+                }
+            ]
+        }
+    ],
+    "team0UnlinkedInfo": {
+        "isConnectedToGameConfig": false,
+        "teamName": "The Survivors",
+        "teamColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 1.0,
+            "a": 1.0
+        },
+        "skin": {
+            "sourceDirectory": "3730080573",
+            "sourceWorkshopId": 3730080573,
+            "name": "US Army Rangers ACH Goggles on Eyes"
+        },
+        "availableWeapons": [
+            {
+                "sourceDirectory": "",
+                "sourceWorkshopId": 0,
+                "name": "AMMO BAG",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "",
+                "sourceWorkshopId": 0,
+                "name": "MEDIC BAG",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Apothicon Servant",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Apothicon Servant (Classic)",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Apothicon Servant (Gear)",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Apothicon Servant (Gear, Classic)",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Blundergat",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "CEL-3 Cauterizer",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Gersh Devices",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "MatryoshkaDolls",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Monkey Bombs",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Quantum Entanglement Devices",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Ray Gun",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Raygun Mk2",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Raygun Mk3",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Reactorniy Avtomat-Izluchatel Kuhlklay-84",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Scavenger",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Sliquifier",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Thundergun",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Thundergun (Gear)",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "V-R11",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "V-R11 (Gear)",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Winter's Howl",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Wunderwaffe DG-2",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2843485679",
+                "sourceWorkshopId": 2843485679,
+                "name": "Wunderwaffe DG-2 (Gear)",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] M4A1",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] AK-47",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] M249 SAW",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] M40A3",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] MP5",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] PP2000",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] USP .45",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Barrett .50cal",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] FAMAS",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] G18",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] L86 LSW",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] M9",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] UMP45",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Intervention",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] M93 Raffica",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] MG36",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] P99",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] SCAR-H",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Vector",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Dragunov",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] MP412",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] PP90M1",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] RPD",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] TAR-21",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] TMP",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] .44 Magnum",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] AUG HBAR",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] FAL",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] L118A",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] P90",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Skorpion",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Five-Seven",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] M16A4",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Mini-Uzi",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] WA2000",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] ACR",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] AS50",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Desert Eagle",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] MP7",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] AK-74u",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] F2000",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] M60E4",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] RSASS",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] G3",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] MSR",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] W1200",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] SPAS-12",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Mk 14",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Striker",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] CM901",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] USAS 12",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] KSG 12",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Type 95",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] AA-12",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] G36C",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] FAD",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Ranger",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] Commando",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] M1887",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] AN-94",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3242631066",
+                "sourceWorkshopId": 3242631066,
+                "name": "[COD] M1014",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3167053419",
+                "sourceWorkshopId": 3167053419,
+                "name": "M18",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3167053419",
+                "sourceWorkshopId": 3167053419,
+                "name": "M67",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3167053419",
+                "sourceWorkshopId": 3167053419,
+                "name": "M84",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "3167053419",
+                "sourceWorkshopId": 3167053419,
+                "name": "RGO",
+                "rarityTier": 0
+            }
+        ],
+        "vehicleConfiguration": [],
+        "turretConfiguration": []
+    },
+    "team1UnlinkedInfo": {
+        "isConnectedToGameConfig": false,
+        "teamName": "Zombies",
+        "teamColor": {
+            "r": 1.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 1.0
+        },
+        "skin": {
+            "sourceDirectory": "2878408376",
+            "sourceWorkshopId": 2878408376,
+            "name": "WaW Nazi Zombie"
+        },
+        "availableWeapons": [
+            {
+                "sourceDirectory": "2496345062",
+                "sourceWorkshopId": 2496345062,
+                "name": "Zombie Bite",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2496345062",
+                "sourceWorkshopId": 2496345062,
+                "name": "Zombie Claw",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2496345062",
+                "sourceWorkshopId": 2496345062,
+                "name": "Zombie Scrape",
+                "rarityTier": 0
+            },
+            {
+                "sourceDirectory": "2496345062",
+                "sourceWorkshopId": 2496345062,
+                "name": "Zombie Swipe",
+                "rarityTier": 0
+            }
+        ],
+        "vehicleConfiguration": [],
+        "turretConfiguration": []
+    }
+}
