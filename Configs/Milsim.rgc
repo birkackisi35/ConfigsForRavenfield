@@ -1,0 +1,625 @@
+﻿{
+    "teamFilePaths": [
+        "Select Team.rtc",
+        "Select Team.rtc"
+    ],
+    "teamInfo": [],
+    "mutatorInfo": [
+        {
+            "sourceDirectory": "3494261892",
+            "sourceWorkshopId": 3494261892,
+            "name": "Auto Bail Out And Ragdoll",
+            "fields": [
+                {
+                    "id": "minWait",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "maxWait",
+                    "serializedValue": "3000"
+                },
+                {
+                    "id": "instaDie",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "affectPlayer",
+                    "serializedValue": "False"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3367142258",
+            "sourceWorkshopId": 3367142258,
+            "name": "Better Bot Targeting",
+            "fields": [
+                {
+                    "id": "moreExplosivesUse",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "groundTargetHeli",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2668894967",
+            "sourceWorkshopId": 2668894967,
+            "name": "Compass",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "2995274085",
+            "sourceWorkshopId": 2995274085,
+            "name": "Flyby Replacer",
+            "fields": [
+                {
+                    "id": "minDistance",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "maxDistance",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "spread",
+                    "serializedValue": "30"
+                },
+                {
+                    "id": "pitchMin",
+                    "serializedValue": "0.8"
+                },
+                {
+                    "id": "pitchMax",
+                    "serializedValue": "1.1"
+                },
+                {
+                    "id": "volume",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2231436598",
+            "sourceWorkshopId": 2231436598,
+            "name": "FIRST-PERSON RAGDOLL",
+            "fields": [
+                {
+                    "id": "zOffset",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "enableWhenDead",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "alwaysEnabled",
+                    "serializedValue": "False"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3358018318",
+            "sourceWorkshopId": 3358018318,
+            "name": "Empty / Dry Fire Sounds",
+            "fields": []
+        },
+        {
+            "sourceDirectory": "3358930007",
+            "sourceWorkshopId": 3358930007,
+            "name": "Drowning",
+            "fields": [
+                {
+                    "id": "damagePerSecond",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "swimmingTimeThreshold",
+                    "serializedValue": "30"
+                },
+                {
+                    "id": "enablePlayerDrowning",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2940291855",
+            "sourceWorkshopId": 2940291855,
+            "name": "IFF System",
+            "fields": [
+                {
+                    "id": "allyRed",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "allyGreen",
+                    "serializedValue": "233"
+                },
+                {
+                    "id": "allyBlue",
+                    "serializedValue": "233"
+                },
+                {
+                    "id": "enemyRed",
+                    "serializedValue": "233"
+                },
+                {
+                    "id": "enemyGreen",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "enemyBlue",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "IsShowDistance",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DisplayTeam",
+                    "serializedValue": "2"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2350523209",
+            "sourceWorkshopId": 2350523209,
+            "name": "Magazine System v2.1 [beta]",
+            "fields": [
+                {
+                    "id": "countmags",
+                    "serializedValue": "4"
+                },
+                {
+                    "id": "countmags2",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "magschance",
+                    "serializedValue": "0.2"
+                },
+                {
+                    "id": "res_ammo",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "mod",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2801044848",
+            "sourceWorkshopId": 2801044848,
+            "name": "MilSim HUD v2",
+            "fields": [
+                {
+                    "id": "showWeaponText",
+                    "serializedValue": "T"
+                },
+                {
+                    "id": "healthBarVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "balanceBarVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "squadTextVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "weaponHUDVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "vehicleHUDVisibility",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "stanceVisibility",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2799415310",
+            "sourceWorkshopId": 2799415310,
+            "name": "More Visual Config",
+            "fields": [
+                {
+                    "id": "isClearBloodDecal",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "isClearProjectileDecal",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "isClearFireLight",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "isClearPost",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "isClearReflectionSound",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "isClearNightVision",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3420135065",
+            "sourceWorkshopId": 3420135065,
+            "name": "No Spawning on Contested",
+            "fields": [
+                {
+                    "id": "SpawnAnywaysIfContested",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "DebugMode",
+                    "serializedValue": "False"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3369454890",
+            "sourceWorkshopId": 3369454890,
+            "name": "Permanent Wrecks",
+            "fields": [
+                {
+                    "id": "maxWrecks",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "spawnerRadius",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "runwayLength",
+                    "serializedValue": "500"
+                },
+                {
+                    "id": "runwayWidth",
+                    "serializedValue": "40"
+                },
+                {
+                    "id": "runwayHeight",
+                    "serializedValue": "10"
+                },
+                {
+                    "id": "runwayForwardOffset",
+                    "serializedValue": "-10"
+                },
+                {
+                    "id": "despawnAnimSpeed",
+                    "serializedValue": "0.25"
+                },
+                {
+                    "id": "waitSeconds",
+                    "serializedValue": "20"
+                },
+                {
+                    "id": "burningChance",
+                    "serializedValue": "50"
+                },
+                {
+                    "id": "blacklist",
+                    "serializedValue": "EXAMPLE 1;EXAMPLE 2"
+                },
+                {
+                    "id": "movable",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "shadows",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "particles",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "protectSpawners",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "debugDraw",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "logLevel",
+                    "serializedValue": "2"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2710783645",
+            "sourceWorkshopId": 2710783645,
+            "name": "Team Voices (<color=blue>Eagle</color>)",
+            "fields": [
+                {
+                    "id": "Channels",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "intervalBetwwenKillSounds",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "volume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "announcerVolume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "AffectsPlayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "doKillReactions",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doAnnouncerVoices",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2710783645",
+            "sourceWorkshopId": 2710783645,
+            "name": "Team Voices (<color=red>Raven</color>)",
+            "fields": [
+                {
+                    "id": "Channels",
+                    "serializedValue": "5"
+                },
+                {
+                    "id": "intervalBetwwenKillSounds",
+                    "serializedValue": "2"
+                },
+                {
+                    "id": "volume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "announcerVolume",
+                    "serializedValue": "100"
+                },
+                {
+                    "id": "AffectsPlayer",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "doKillReactions",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "doAnnouncerVoices",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2710783645",
+            "sourceWorkshopId": 2710783645,
+            "name": "Voice Pack: Modern Scottish Soldier",
+            "fields": [
+                {
+                    "id": "assignedTeam",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2710783645",
+            "sourceWorkshopId": 2710783645,
+            "name": "Voice Pack: Modern American Soldier",
+            "fields": [
+                {
+                    "id": "assignedTeam",
+                    "serializedValue": "0"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3015125721",
+            "sourceWorkshopId": 3015125721,
+            "name": "Super HUD Hider",
+            "fields": [
+                {
+                    "id": "HealthHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "WeaponHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "VehicleHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "SquadHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "FlagHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "OverlayHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "HitmarkerHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "KillfeedHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "DamageDirectionHUD",
+                    "serializedValue": "True"
+                },
+                {
+                    "id": "KillCameraHUD",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2407513273",
+            "sourceWorkshopId": 2407513273,
+            "name": "Universal Camera Shake",
+            "fields": [
+                {
+                    "id": "Vehicle",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "Spread",
+                    "serializedValue": "False"
+                },
+                {
+                    "id": "Shaking",
+                    "serializedValue": "1"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2799793905",
+            "sourceWorkshopId": 2799793905,
+            "name": "Universal Recoil",
+            "fields": [
+                {
+                    "id": "recoilAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "swayAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "trendMultiplier",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "recoveryAmp",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "pushMult",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "rockMult",
+                    "serializedValue": "1"
+                },
+                {
+                    "id": "crouchMult",
+                    "serializedValue": "0.7"
+                },
+                {
+                    "id": "proneMult",
+                    "serializedValue": "0.8"
+                },
+                {
+                    "id": "reducedVisual",
+                    "serializedValue": "0.8"
+                },
+                {
+                    "id": "zoomMult",
+                    "serializedValue": "0.65"
+                },
+                {
+                    "id": "bannedWeps",
+                    "serializedValue": "artemis bow;Example 2"
+                },
+                {
+                    "id": "bannedTags",
+                    "serializedValue": "overhaul;Example 2"
+                },
+                {
+                    "id": "useProneMult",
+                    "serializedValue": "True"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "3491162518",
+            "sourceWorkshopId": 3491162518,
+            "name": "Vehicle Manual Flip",
+            "fields": [
+                {
+                    "id": "FlipKey",
+                    "serializedValue": "G"
+                }
+            ]
+        },
+        {
+            "sourceDirectory": "2814834469",
+            "sourceWorkshopId": 2814834469,
+            "name": "Squad Custom Flag",
+            "fields": [
+                {
+                    "id": "EagleFlag",
+                    "serializedValue": "0"
+                },
+                {
+                    "id": "RavenFlag",
+                    "serializedValue": "1"
+                }
+            ]
+        }
+    ],
+    "team0UnlinkedInfo": {
+        "isConnectedToGameConfig": false,
+        "teamName": "",
+        "teamColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+        },
+        "skin": {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": ""
+        },
+        "availableWeapons": [],
+        "vehicleConfiguration": [],
+        "turretConfiguration": []
+    },
+    "team1UnlinkedInfo": {
+        "isConnectedToGameConfig": false,
+        "teamName": "",
+        "teamColor": {
+            "r": 0.0,
+            "g": 0.0,
+            "b": 0.0,
+            "a": 0.0
+        },
+        "skin": {
+            "sourceDirectory": "",
+            "sourceWorkshopId": 0,
+            "name": ""
+        },
+        "availableWeapons": [],
+        "vehicleConfiguration": [],
+        "turretConfiguration": []
+    }
+}
